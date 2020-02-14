@@ -1,2 +1,2 @@
-# hello-eorld
+# hello-world
 
